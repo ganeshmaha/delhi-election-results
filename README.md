@@ -1,2 +1,1 @@
-<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/1373392"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
+A sample project to visualize the Delhi assembly election results from 1993 to 2020
